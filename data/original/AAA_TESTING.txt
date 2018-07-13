@@ -1,0 +1,28 @@
+All combinations done 5 times
+
+12
+
+23
+
+35
+
+24
+
+112
+
+123
+
+256
+
+232
+
+1243
+
+1632
+
+1356
+
+1254
+
+
+Some errors may have happened during the session, look for sequences of 5 of the same combination, or at least sequences of the same arm (left right left).

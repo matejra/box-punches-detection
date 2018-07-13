@@ -17,4 +17,7 @@ Features used for each acceleration axis (6 axes) are:
 
 ## Files
 * File cross_validation_comparison.py is used for cross-validation and determining the best classifier and features for our project.
-* File proj_traintest_new.py is used for testing the new data combinations with best classifier (K-nearest).
+* File testing_set_validation.py is used for testing the new data combinations with best classifier (K-nearest).
+
+## Report
+* Report of the project is located in the .pdf file
